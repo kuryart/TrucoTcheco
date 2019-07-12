@@ -1,0 +1,20 @@
+C:\Users\Paulo Cury\Documents\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Paulo Cury\Documents\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\Paulo Cury\Documents\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Paulo Cury\Documents\Projeto\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Paulo Cury\Documents\Projeto\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\Paulo Cury\Documents\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Paulo Cury\Documents\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Paulo Cury\Documents\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Cury\Documents\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\Paulo Cury\Documents\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\PauloCezar\source\repos\JogoLoko\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\PauloCezar\source\repos\JogoLoko\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\PauloCezar\source\repos\JogoLoko\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\PauloCezar\source\repos\JogoLoko\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\PauloCezar\source\repos\JogoLoko\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\PauloCezar\source\repos\JogoLoko\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\PauloCezar\source\repos\JogoLoko\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\PauloCezar\source\repos\JogoLoko\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\PauloCezar\source\repos\JogoLoko\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\PauloCezar\source\repos\JogoLoko\Projeto\Projeto\obj\Debug\Projeto.pdb
